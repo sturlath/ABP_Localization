@@ -1,8 +1,28 @@
 {
   "culture": "is",
   "texts": {
-    "Menu:Home": "All special icelandic letters only showing ? -> ��� ",
+    "Menu:Home": "All special icelandic letters only showing ? -> íþð ",
     "Welcome": "Welcome",
-    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io.",
+    "Login": "Innskrá",
+    "Logout": "Útskrá",
+    "Authentication:Login": "Innskrá",
+    "Authentication:Logout": "Útskrá",
+    "Volo.Abp.Account:Login": "Innskrá",
+    "Volo.Abp.Account:Logout": "Útskrá",
+    "Login:Volo.Abp.Account.Login": "Innskrá",
+    "Logout:Volo.Abp.Account.Logout": "Útskrá",
+    "Default:Login": "Innskrá",
+    "Default:Logout": "Útskrá",
+    "Account:Login": "Innskrá",
+    "Account:Logout": "Útskrá",
+    "Account::Login": "Innskrá",
+    "Account::Logout": "Útskrá",
+    "Account:Login:Login": "Innskrá",
+    "Account:Login:Logout": "Útskrá",
+    "AbpAccount:Login": "Innskrá",
+    "AbpAccount:Logout": "Útskrá",
+    "AbpUi:Login": "Innskrá",
+    "AbpUi:Logout": "Útskrá"
   }
 }
