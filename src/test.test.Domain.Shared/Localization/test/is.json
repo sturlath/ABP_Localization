@@ -23,6 +23,16 @@
     "AbpAccount:Login": "Innskrá",
     "AbpAccount:Logout": "Útskrá",
     "AbpUi:Login": "Innskrá",
-    "AbpUi:Logout": "Útskrá"
+    "AbpUi:Logout": "Útskrá",
+    "AreYouANewUser": "Ertu nýr notandi?",
+    "Authentication:AreYouANewUser": "Ertu nýr notandi?",
+    "Volo.Abp.Account:AreYouANewUser": "Ertu nýr notandi?",
+    "Login:Volo.Abp.Account.AreYouANewUser": "Ertu nýr notandi?",
+    "Default:AreYouANewUser": "Ertu nýr notandi?",
+    "Account:AreYouANewUser": "Ertu nýr notandi?",
+    "Account::AreYouANewUser": "Ertu nýr notandi?",
+    "Account:Login:AreYouANewUser": "Ertu nýr notandi?",
+    "AbpAccount:AreYouANewUser": "Ertu nýr notandi?",
+    "AbpUi:AreYouANewUser": "Ertu nýr notandi?"
   }
 }
